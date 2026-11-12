@@ -9,11 +9,11 @@
   <a href="https://www.roblox.com/game-pass/2074474018"><img src="https://img.shields.io/badge/Donate-50%20Robux-00A2FF?style=for-the-badge&logo=roblox&logoColor=white" alt="Donate 50 Robux"></a>
   <a href="https://www.roblox.com/game-pass/705141263"><img src="https://img.shields.io/badge/Donate-100%20Robux-00A2FF?style=for-the-badge&logo=roblox&logoColor=white" alt="Donate 100 Robux"></a>
   <a href="https://www.roblox.com/game-pass/704263706"><img src="https://img.shields.io/badge/Donate-1000%20Robux-00A2FF?style=for-the-badge&logo=roblox&logoColor=white" alt="Donate 1,000 Robux"></a>
-</p>Gift Cards
+## Gift Cards
 
 Want to donate using a gift card? Send the gift card code to me on Discord:
 
-Discord: <code>mruptimee.</code>
+<code>mruptimee.</code>
 
 ## Why Donate?
 
