@@ -1,6 +1,6 @@
-Choose a Donation
+# Choose a Donation
 
-Robux
+## Robux
 
 <p align="center">
   <a href="https://www.roblox.com/game-pass/665917769"><img src="https://img.shields.io/badge/Donate-5%20Robux-00A2FF?style=for-the-badge&logo=roblox&logoColor=white" alt="Donate 5 Robux"></a>
@@ -15,8 +15,6 @@ Want to donate using a gift card? Send the gift card code to me on Discord:
 
 Discord: <code>mruptimee.</code>
 
-Why Donate?
+## Why Donate?
 
-Please consider donating to help me pay for more AI subscriptions and support my projects.
-
-Every donation is appreciated. Thank you! ❤️
+Donate to me so I can pay for my gpt 6 Astra and Claude fable 5.2
