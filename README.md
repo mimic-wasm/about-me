@@ -10,4 +10,8 @@
   <a href="https://www.roblox.com/game-pass/704263706"><img src="https://img.shields.io/badge/Donate-1000%20Robux-00A2FF?style=for-the-badge&logo=roblox&logoColor=white" alt="Donate 1,000 Robux"></a>
 </p>
 
+## Gift cards
+
+send gift card codes to me on discord ```mruptimee.```
+
 **please donate to me so I can get more ai subscriptions**
