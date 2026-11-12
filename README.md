@@ -1,9 +1,9 @@
 # Support Me with Robux
 
 If you enjoy my work, you can support me by using any of the following methods
-## Choose a Donation
+# Choose a Donation
 
-# Robux
+## Robux
 <p align="center">
   <a href="https://www.roblox.com/game-pass/665917769"><img src="https://img.shields.io/badge/Donate-5%20Robux-00A2FF?style=for-the-badge&logo=roblox&logoColor=white" alt="Donate 5 Robux"></a>
   <a href="https://www.roblox.com/game-pass/704532576"><img src="https://img.shields.io/badge/Donate-10%20Robux-00A2FF?style=for-the-badge&logo=roblox&logoColor=white" alt="Donate 10 Robux"></a>
