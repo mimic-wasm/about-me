@@ -1,6 +1,3 @@
-# Support Me with Robux
-
-If you enjoy my work, you can support me by using any of the following methods
 # Choose a Donation
 
 ## Robux
@@ -12,3 +9,5 @@ If you enjoy my work, you can support me by using any of the following methods
   <a href="https://www.roblox.com/game-pass/705141263"><img src="https://img.shields.io/badge/Donate-100%20Robux-00A2FF?style=for-the-badge&logo=roblox&logoColor=white" alt="Donate 100 Robux"></a>
   <a href="https://www.roblox.com/game-pass/704263706"><img src="https://img.shields.io/badge/Donate-1000%20Robux-00A2FF?style=for-the-badge&logo=roblox&logoColor=white" alt="Donate 1,000 Robux"></a>
 </p>
+
+**please donate to me so I can get more ai subscriptions**
