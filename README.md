@@ -12,7 +12,6 @@
 
 ## Gift cards
 
-send gift card codes to me on discord ```lua
-mruptimee.```
+send gift card codes to me on discord `mruptimee.`
 
 **please donate to me so I can get more ai subscriptions**
